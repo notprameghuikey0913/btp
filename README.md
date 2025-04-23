@@ -52,20 +52,6 @@ cd MB-DCNN
 ### 6. Evaluation
 * Run `python eval_MaskCN.py` and `python eval_EnhancedSN.py` to start the evaluation.
 
-### 7. Citation
-If this code is helpful for your study, please cite:
-
-```
-@ARTICLE{8990108,
-  author={Yutong Xie and Jianpeng Zhang and Yong Xia and Chunhua Shen},
-  journal={IEEE Transactions on Medical Imaging}, 
-  title={A Mutual Bootstrapping Model for Automated Skin Lesion Segmentation and Classification}, 
-  year={2020},
-  volume={39},
-  number={7},
-  pages={2482-2493},}
-```
-
 ### 8. Acknowledgements
 The codes for Deeplabv3+ network and Xception network are reused from the [YudeWang](https://github.com/YudeWang/deeplabv3plus-pytorch) and [Cadene](https://github.com/Cadene/pretrained-models.pytorch).<br />
 Thanks to [YudeWang](https://github.com/YudeWang/deeplabv3plus-pytorch) and [Cadene](https://github.com/Cadene/pretrained-models.pytorch) for the pretrained weights for Deeplabv3+ network and Xception network.
